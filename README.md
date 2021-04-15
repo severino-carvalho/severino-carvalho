@@ -17,7 +17,7 @@
 <br/>
 
 ### In learning:
- #### - Desenvolvimento WEB:
+ #### - Desenvolvimento Web com:
 <img src= "https://simpleicons.org/icons/html5.svg" title="Html 5" heigth = "40" width="40"></img>
 <img src= "https://simpleicons.org/icons/css3.svg" title="Css 3" heigth = "40" width="40"></img>
 <img src= "https://simpleicons.org/icons/javascript.svg" title="JavaScript" heigth = "40" width="40"></img>
