@@ -1,6 +1,6 @@
 # Severino Neto 
- - ### João Câmara Brazilian br
- - ### Dev Front-End Junior :computer:
+ - ### João Câmara, RN - Brazilian
+ - ### Dev Front-End Junior 🖥️
  - ### IFRN - JC --> Informática 📚🖥️
  - ### IMD - UFRN --> Informática para a internet 📚🖥️
 
