@@ -17,14 +17,14 @@
 <br/>
 
 ### In learning:
- #### - Desenvolvimento Web com:
+ #### - Conhecimentos sobre:
 <img src= "https://simpleicons.org/icons/html5.svg" title="Html 5" heigth = "40" width="40"></img>
 <img src= "https://simpleicons.org/icons/css3.svg" title="Css 3" heigth = "40" width="40"></img>
 <img src= "https://simpleicons.org/icons/javascript.svg" title="JavaScript" heigth = "40" width="40"></img>
 <img src= "https://simpleicons.org/icons/jquery.svg" title="Jquery" heigth = "40" width="40"></img>
 <img src= "https://simpleicons.org/icons/bootstrap.svg" title="Bootstrap" heigth = "40" width="40"></img>
-
- #### - Aplicações com:
 <img src= "https://simpleicons.org/icons/java.svg" title="Java" heigth = "40" width="40"></img>
 <img src= "https://simpleicons.org/icons/mysql.svg" title="MySQL" heigth = "40" width="40"></img>
+<img src = "https://simpleicons.org/icons/git.svg" title="Git" height = "40" width = "40" ></img>
+<img src = "https://simpleicons.org/icons/github.svg" title="GitHub" height = "40" width = "40" ></img>
 
