@@ -1,12 +1,12 @@
-# Severino Neto 
- - ### João Câmara, RN - Brazilian
- - ### Dev Front-End Junior 🖥️
- - ### IFRN - JC --> Informática 📚🖥️
- - ### IMD - UFRN --> Informática para a internet 📚🖥️
+## Severino Neto 
+ - #### João Câmara, RN - Brazilian
+ - #### Dev Front-End Junior 🖥️
+ - #### IFRN - JC --> Informática 📚🖥️
+ - #### IMD - UFRN --> Informática para a internet 📚🖥️
 
 <br/>
 
-## Talk to me: 
+### Talk to me: 
   <a href = "https://www.facebook.com/Netollyno/" target="_blank"><img align="center" alt="Facebook - Neto" height = "30" width = "40" src = "https://simpleicons.org/icons/facebook.svg"></img></a>
   <a href = "https://www.instagram.com/oh_netin/" target="_blank"><img align="center" alt="Instagram - Neto" height = "30" width = "40" src = "https://simpleicons.org/icons/instagram.svg"></img></a>
   <a href = "https://twitter.com/netollyno" target="_blank"><img align="center" alt="Twitter - Neto" height = "30" width = "40" src = "https://simpleicons.org/icons/twitter.svg"></img></a>
@@ -16,15 +16,15 @@
 
 <br/>
 
-## In learning:
- ### - Desenvolvimento WEB:
+### In learning:
+ #### - Desenvolvimento WEB:
 <img src= "https://simpleicons.org/icons/html5.svg" title="Html 5" heigth = "40" width="40"></img>
 <img src= "https://simpleicons.org/icons/css3.svg" title="Css 3" heigth = "40" width="40"></img>
 <img src= "https://simpleicons.org/icons/javascript.svg" title="JavaScript" heigth = "40" width="40"></img>
 <img src= "https://simpleicons.org/icons/jquery.svg" title="Jquery" heigth = "40" width="40"></img>
 <img src= "https://simpleicons.org/icons/bootstrap.svg" title="Bootstrap" heigth = "40" width="40"></img>
 
- ### - Aplicações com:
+ #### - Aplicações com:
 <img src= "https://simpleicons.org/icons/java.svg" title="Java" heigth = "40" width="40"></img>
 <img src= "https://simpleicons.org/icons/mysql.svg" title="MySQL" heigth = "40" width="40"></img>
 
