@@ -1,12 +1,14 @@
-## Severino Neto 
+## Severino Carvalho da Silva Neto 
  - #### João Câmara, RN - Brazilian
  - #### Dev Front-End Junior 🖥️
  - #### IFRN - JC --> Informática 📚🖥️
  - #### IMD - UFRN --> Informática para a internet 📚🖥️
+----------
 
-<br/>
-
-### Talk to me: 
+  <br/>
+  
+## Talk to me: 
+  <a href = "https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSPFdLTCxLrrpLvlwhLtrVBvzmKNtKdpCGDPFSdWrbLwtzhNSzLbCJVwWQmfpNjrPnWLqxfh" target="_blank"><img align="center" alt="Email - Neto" height = "30" width = "40" src = "https://simpleicons.org/icons/gmail.svg"></img></a>
   <a href = "https://www.facebook.com/Netollyno/" target="_blank"><img align="center" alt="Facebook - Neto" height = "30" width = "40" src = "https://simpleicons.org/icons/facebook.svg"></img></a>
   <a href = "https://www.instagram.com/oh_netin/" target="_blank"><img align="center" alt="Instagram - Neto" height = "30" width = "40" src = "https://simpleicons.org/icons/instagram.svg"></img></a>
   <a href = "https://twitter.com/netollyno" target="_blank"><img align="center" alt="Twitter - Neto" height = "30" width = "40" src = "https://simpleicons.org/icons/twitter.svg"></img></a>
@@ -14,9 +16,14 @@
   <a href = "https://t.me/oh_netin" target="_blank"><img align="center" alt="Telegram - Neto" height = "30" width = "40" src = "https://simpleicons.org/icons/telegram.svg"></img></a>
   <a href="https://github.com/oh-netin/" target="_blank"><img align="center" alt="GitHub - Neto" height = "30" width = "40" src = "https://simpleicons.org/icons/github.svg"></img></a>
 
-<br/>
+  <br/>
+  
+----------
 
-### In learning:
+  <br/>
+  
+
+## In learning:
  #### - Conhecimentos sobre:
 <img src= "https://simpleicons.org/icons/html5.svg" title="Html 5" heigth = "40" width="40"></img>
 <img src= "https://simpleicons.org/icons/css3.svg" title="Css 3" heigth = "40" width="40"></img>
@@ -29,3 +36,8 @@
 <img src = "https://simpleicons.org/icons/git.svg" title="Git" height = "40" width = "40" ></img>
 <img src = "https://simpleicons.org/icons/github.svg" title="GitHub" height = "40" width = "40" ></img>
 
+
+  <br/>
+  
+----------
+  
