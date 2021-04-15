@@ -22,6 +22,7 @@
 <img src= "https://simpleicons.org/icons/css3.svg" title="Css 3" heigth = "40" width="40"></img>
 <img src= "https://simpleicons.org/icons/javascript.svg" title="JavaScript" heigth = "40" width="40"></img>
 <img src= "https://simpleicons.org/icons/jquery.svg" title="Jquery" heigth = "40" width="40"></img>
+<img src= "https://simpleicons.org/icons/json.svg" title="Json" heigth = "40" width="40"></img>
 <img src= "https://simpleicons.org/icons/bootstrap.svg" title="Bootstrap" heigth = "40" width="40"></img>
 <img src= "https://simpleicons.org/icons/java.svg" title="Java" heigth = "40" width="40"></img>
 <img src= "https://simpleicons.org/icons/mysql.svg" title="MySQL" heigth = "40" width="40"></img>
