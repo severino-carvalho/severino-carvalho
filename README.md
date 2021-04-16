@@ -12,6 +12,7 @@
   <a href = "https://twitter.com/netollyno" target="_blank"><img align="center" alt="Twitter - Neto" height = "30" width = "40" src = "https://simpleicons.org/icons/twitter.svg"></img></a>
   <a href = "https://api.whatsapp.com/send?phone=5584994650540&text=Hi%20there" target="_blank"><img align="center" alt="What'sApp - Neto" height = "30" width = "40" src = "https://simpleicons.org/icons/whatsapp.svg"></img></a>
   <a href = "https://t.me/oh_netin" target="_blank"><img align="center" alt="Telegram - Neto" height = "30" width = "40" src = "https://simpleicons.org/icons/telegram.svg"></img></a>
+<br/>
 <hr/>
 
 ## In learning:
