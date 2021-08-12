@@ -1,30 +1,28 @@
-## Severino Carvalho da Silva Neto 
- - #### João Câmara, RN - Brazilian
- - #### Dev Front-End Junior 🖥️
- - #### IFRN - JC --> Informática 📚🖥️
- - #### IMD - UFRN --> Informática para a internet 📚🖥️
-----------
-
-## Talk to me: 
-  <a href = "https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSPFdLTCxLrrpLvlwhLtrVBvzmKNtKdpCGDPFSdWrbLwtzhNSzLbCJVwWQmfpNjrPnWLqxfh" target="_blank"><img align="center" alt="Email - Neto" height = "30" width = "40" src = "https://simpleicons.org/icons/gmail.svg"></img></a>
-  <a href = "https://www.facebook.com/Netollyno/" target="_blank"><img align="center" alt="Facebook - Neto" height = "30" width = "40" src = "https://simpleicons.org/icons/facebook.svg"></img></a>
-  <a href = "https://www.instagram.com/oh_netin/" target="_blank"><img align="center" alt="Instagram - Neto" height = "30" width = "40" src = "https://simpleicons.org/icons/instagram.svg"></img></a>
-  <a href = "https://twitter.com/netollyno" target="_blank"><img align="center" alt="Twitter - Neto" height = "30" width = "40" src = "https://simpleicons.org/icons/twitter.svg"></img></a>
-  <a href = "https://api.whatsapp.com/send?phone=5584994650540&text=Hi%20there" target="_blank"><img align="center" alt="What'sApp - Neto" height = "30" width = "40" src = "https://simpleicons.org/icons/whatsapp.svg"></img></a>
-  <a href = "https://t.me/oh_netin" target="_blank"><img align="center" alt="Telegram - Neto" height = "30" width = "40" src = "https://simpleicons.org/icons/telegram.svg"></img></a>
-<br/>
-<hr/>
-
-## In learning:
- #### - Conhecimentos sobre:
-<img src= "https://simpleicons.org/icons/html5.svg" title="Html 5" heigth = "40" width="40"></img>
-<img src= "https://simpleicons.org/icons/css3.svg" title="Css 3" heigth = "40" width="40"></img>
-<img src= "https://simpleicons.org/icons/javascript.svg" title="JavaScript" heigth = "40" width="40"></img>
-<img src= "https://simpleicons.org/icons/jquery.svg" title="Jquery" heigth = "40" width="40"></img>
-<img src= "https://simpleicons.org/icons/json.svg" title="Json" heigth = "40" width="40"></img>
-<img src= "https://simpleicons.org/icons/bootstrap.svg" title="Bootstrap" heigth = "40" width="40"></img>
-<img src= "https://simpleicons.org/icons/java.svg" title="Java" heigth = "40" width="40"></img>
-<img src= "https://simpleicons.org/icons/mysql.svg" title="MySQL" heigth = "40" width="40"></img>
-<img src = "https://simpleicons.org/icons/git.svg" title="Git" height = "40" width = "40" ></img>
-<img src = "https://simpleicons.org/icons/github.svg" title="GitHub" height = "40" width = "40" ></img>
-<hr/>  
+## Olá! Sou Severino Neto 
+ <div>
+  <a href="https://github.com/oh-netin">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oh-netin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title_color=blue"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oh-netin&layout=compact&langs_count=7&theme=dracula&title_color=blue"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Neto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Neto-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Neto-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Neto-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Neto-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
+  <img align="center" alt="Neto-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Neto-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"> 
+  <img align="center" alt="Neto-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  </div>
+  
+  ##
+ 
+<div> 
+  <a href="https://www.instagram.com/oh_netin/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://twitter.com/netollyno" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+ 	<a href="https://discord.gg/7v4fsmV9" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/severino-carvalho-019899175/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/oh-netin/oh-netin/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
