@@ -1,8 +1,8 @@
 ## Olá! Sou Severino Neto 
  <div>
   <a href="https://github.com/oh-netin">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oh-netin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title_color=blue"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oh-netin&layout=compact&langs_count=7&theme=dracula&title_color=blue"/>
+  <img height="180em" width="350em" src="https://github-readme-stats.vercel.app/api?username=oh-netin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title_color=blue"/>
+  <img height="180em" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oh-netin&layout=compact&langs_count=7&theme=dracula&title_color=blue"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Neto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
