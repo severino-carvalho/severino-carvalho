@@ -1,10 +1,10 @@
-## Olá! Sou Severino Neto 
+## Olá! Sou Severino Carvalho
 
  <div>
   <a href="https://github.com/oh-netin">
   <div style="display:flex; gap:15px;">
-    <img height="180em" width="380em" src="https://github-readme-stats.vercel.app/api?username=oh-netin&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=blue"/>
-  <img height="180em" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oh-netin&layout=compact&langs_count=7&theme=dark&title_color=blue&show_icons=true"/>
+    <img height="180em" width="380em" src="https://github-readme-stats.vercel.app/api?username=severino-carvalho&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=blue"/>
+  <img height="180em" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=severino-carvalho&layout=compact&langs_count=7&theme=dark&title_color=blue&show_icons=true"/>
   </div>
 </div>
 
@@ -12,7 +12,7 @@
 
   <img align="center" alt="Neto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Neto-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Neto-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Neto-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  <!--<img align="center" alt="Neto-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Neto-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
   <img align="center" alt="Neto-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -41,6 +41,6 @@
  	<a href="https://discord.gg/7v4fsmV9" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/severino-carvalho-019899175/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/oh-netin/oh-netin/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/severino-carvalho/severino-carvalho/blob/output/github-contribution-grid-snake.svg)
  
 </div>
