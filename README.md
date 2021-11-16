@@ -1,5 +1,7 @@
 ## Olá! Sou Severino Carvalho
 
+### Tenho 19 anos, sou dicente do IFRN cursando Informática 4. 
+
  <div>
   <a href="https://github.com/oh-netin">
   <div>
