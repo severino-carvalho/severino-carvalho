@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2? family = Ubuntu: wght @ 300 & display = swap');
+
+*{
+  font-family: 'Ubuntu', sans-serif;
+}
+
+#container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+#container img {
+  width: 48%;
+  min-height: 50px;
+  padding: 3px 2px;
+}
+
+#conhecimentos {
+  display: flex;
+  justify-content: space-between;
+  gap: 15px
+}
+
+#conhecimentos img {
+  padding: 15px 0px;
+  width: 500px;
+  cursor: pointer;
+}
+
+#contatos {
+  display: flex;
+}
+
+#cobrinha {
+  background-color: black;
+}
