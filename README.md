@@ -101,3 +101,4 @@ Sou Severino Carvalho, tenho 20 anos e sou técnico de nível médio em informá
   ![Snake animation](https://github.com/severino-carvalho/severino-carvalho/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
