@@ -1,6 +1,6 @@
 ## Olá, seja bem-vindo!
 
-Sou Severino Carvalho, tenho 20 anos e sou técnico de nível médio em informática pelo **IFRN - *Campus* João Câmara**.
+Sou Severino Carvalho, tenho 20 anos e sou técnico de nível médio em informática pelo **IFRN - *Campus* João Câmara**. Atuamente estou cursando Ciências e Tecnologia na **UFRN**
 
 <div>
   <a href="https://github.com/severino-carvalho">
