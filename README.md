@@ -7,12 +7,18 @@ Com o conhecimento adquirido, consigo desenvolver atividades front-end utilizand
 <div>
   <a href="https://github.com/severino-carvalho">
   <div style="display:flex; gap:5px;">
-    <img height="180em" width="280em" src="https://github-readme-stats.vercel.app/api?username=severino-carvalho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" /> 
-    <img height="180em" width="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=severino-carvalho&layout=compact&langs_count=7&theme=tokyonight&show_icons=true&hide_border=true"/>
+    <img 
+    height="180em"
+    width="280em" 
+    src="https://github-readme-stats.vercel.app/api?username=severino-carvalho&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&hide_border=true" />
+    <img
+    height="180em" 
+    width="280em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=severino-carvalho&layout=compact&langs_count=7&theme=gruvbox&show_icons=true&hide_border=true"/>
   </div>
 </div>
 
----
+-----
 
 <div style="display: flex; gap: 7px;">
   <img align="center" alt="html-icon" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
@@ -27,7 +33,7 @@ Com o conhecimento adquirido, consigo desenvolver atividades front-end utilizand
   <img align="center" alt="yarn-icon" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original-wordmark.svg" />
   </div>
 
-<div>
+<div> 
 
 ---
 
@@ -92,6 +98,7 @@ Com o conhecimento adquirido, consigo desenvolver atividades front-end utilizand
 
 </div>
 
-![Snake animation](https://github.com/severino-carvalho/severino-carvalho/blob/output/github-contribution-grid-snake.svg)
-
+  ![Snake animation](https://github.com/severino-carvalho/severino-carvalho/blob/output/github-contribution-grid-snake.svg)
+ 
 </div>
+
