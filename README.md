@@ -8,13 +8,13 @@ Com o conhecimento adquirido, consigo desenvolver atividades front-end utilizand
   <a href="https://github.com/severino-carvalho">
   <div style="display:flex; gap:5px;">
     <img 
-    height="180em"
+    min-height="180em"
     width="280em" 
-    src="https://github-readme-stats.vercel.app/api?username=severino-carvalho&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&hide_border=true" />
+    src="https://github-readme-stats.vercel.app/api?username=severino-carvalho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
     <img
-    height="180em" 
+    min-height="180em" 
     width="280em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=severino-carvalho&layout=compact&langs_count=7&theme=gruvbox&show_icons=true&hide_border=true"/>
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=severino-carvalho&layout=compact&langs_count=7&theme=tokyonight&show_icons=true&hide_border=true"/>
   </div>
 </div>
 
