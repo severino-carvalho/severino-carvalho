@@ -1,8 +1,8 @@
 ## Olá, seja bem-vindo!
 
-Sou Severino Carvalho e tenho 20 anos. Sou técnico de nível médio em informátiva pelo Instituto Federal de Educação Ciência e Tecnologia do Rio Grande do Norte Campus João Câmara (IFRN-JC) e técnico em programação para internet pelo Instituto Metrópole Digital da Universidade Federal do Rio Grande do Norte. (IMD/UFRN). No ensino superior, estou cursando o primeiro semestre na Escola de Ciências e Tecnologia (ECT/UFRN)
+Sou Severino Carvalho e tenho 21 anos. Sou técnico de nível médio em informátiva pelo Instituto Federal de Educação Ciência e Tecnologia do Rio Grande do Norte Campus João Câmara (IFRN-JC) e técnico em programação para internet pelo Instituto Metrópole Digital da Universidade Federal do Rio Grande do Norte. (IMD/UFRN). No ensino superior, estou cursando o primeiro semestre na Escola de Ciências e Tecnologia (ECT/UFRN)
 
-Com o conhecimento adquirido, consigo desenvolver atividades front-end utilizando HTML, CSS, Javascript, Bootstrap e ReactJS. Para o back-end desenvolvo utilizando Java com o framework Spring, NodeJS com o framework ExpressJS e MySQL como banco de dados. Na área do desenvolvimento para dispositivos móveis desenvolvo aplicações utilizando React Native. E para o versionamento de projetos utilizo Git e GitHub. Sou uma pessoa autodidata, apaixonado pela programação, vejo o trabalho em grupo como algo fundamental para o desenvolvimento das atividades.
+Com o conhecimento adquirido, consigo desenvolver atividades front-end utilizando HTML, CSS, Javascript, Bootstrap e ReactJS. Para o back-end desenvolvo utilizando Java com o framework Spring, Typescript, NodeJS com o framework ExpressJS e MySQL como banco de dados. Na área do desenvolvimento para dispositivos móveis desenvolvo aplicações utilizando React Native. E para o versionamento de projetos utilizo Git e GitHub. Sou uma pessoa autodidata, apaixonado pela programação, vejo o trabalho em grupo como algo fundamental para o desenvolvimento das atividades.
 
 <div>
   <a href="https://github.com/severino-carvalho">
