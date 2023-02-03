@@ -4,7 +4,7 @@ Sou Severino Carvalho e tenho 21 anos. Sou técnico de nível médio em informá
 
 Com o conhecimento adquirido, consigo desenvolver atividades front-end utilizando HTML, CSS, Javascript, Bootstrap e ReactJS. Para o back-end desenvolvo utilizando Java com o framework Spring, Typescript, NodeJS com o framework ExpressJS e MySQL como banco de dados. Na área do desenvolvimento para dispositivos móveis desenvolvo aplicações utilizando React Native. E para o versionamento de projetos utilizo Git e GitHub. Sou uma pessoa autodidata, apaixonado pela programação, vejo o trabalho em grupo como algo fundamental para o desenvolvimento das atividades.
 
-<div>
+<div style="margin-bottom:1em;">
   <a href="https://github.com/severino-carvalho">
     <div style="display:flex; gap:5px;">
       <img 
@@ -14,20 +14,24 @@ Com o conhecimento adquirido, consigo desenvolver atividades front-end utilizand
       <img
       height="180em" 
       width="280em" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=severino-carvalho&layout=compact&langs_count=7&theme=dark&show_icons=true&hide_border=true"/>
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=severino-carvalho&layout=compact&theme=dark&show_icons=true&hide_border=true"/>
     </div>
   </a>
 </div>
 
 ---
 
+# Tecnologias
+
+<div style="margin:1em 0;">
+
 ### Front-end:
 
   <div style="display: flex; gap: 7px; margin-bottom: 20px;">
     <img align="center" alt="html-icon" height="40" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
     <img align="center" alt="css-icon" height="40" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-    <img align="center" alt="css-icon" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
     <img align="center" alt="javascript-icon" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img align="center" alt="css-icon" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
     <img align="center" alt="react-icon" height="40" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   </div>
 
@@ -45,14 +49,17 @@ Com o conhecimento adquirido, consigo desenvolver atividades front-end utilizand
 
 ### Controle de versão:
 
-  <div style="display: flex; gap: 7px;">
+  <div style="display: flex; gap: 1em;">
     <img align="center" alt="docker-icon" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
     <img align="center" alt="docker-icon" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   </div>
+</div>
 
 ---
 
-<div>
+# Social
+
+<div stats="display: flex;">
   <!--  Discord -->
   <a 
   href="https://discord.gg/9WpdURtWKE" 
@@ -79,7 +86,7 @@ Com o conhecimento adquirido, consigo desenvolver atividades front-end utilizand
   </a>
   <!--  Instagram  -->
   <a 
-  href="https://www.instagram.com/dev_severino/" 
+  href="https://www.instagram.com/seve_neto7/" 
   target="_blank">
     <img 
     style="width: 110px; height: 30px;"
@@ -110,8 +117,9 @@ Com o conhecimento adquirido, consigo desenvolver atividades front-end utilizand
     style="width: 110px; height: 30px;"
     src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
   </a>
-
 </div>
+
+---
 
 ![Snake animation](https://github.com/severino-carvalho/severino-carvalho/blob/output/github-contribution-grid-snake.svg)
 
