@@ -1,39 +1,54 @@
 ## Olá, seja bem-vindo!
 
-Sou Severino Carvalho e tenho 21 anos. Sou técnico de nível médio em informátiva pelo Instituto Federal de Educação Ciência e Tecnologia do Rio Grande do Norte Campus João Câmara (IFRN-JC) e técnico em programação para internet pelo Instituto Metrópole Digital da Universidade Federal do Rio Grande do Norte. (IMD/UFRN). No ensino superior, estou cursando o primeiro semestre na Escola de Ciências e Tecnologia (ECT/UFRN)
+Sou Severino Carvalho e tenho 21 anos. Sou técnico de nível médio em informátiva pelo Instituto Federal de Educação Ciência e Tecnologia do Rio Grande do Norte Campus João Câmara (IFRN-JC) e técnico em programação para internet pelo Instituto Metrópole Digital da Universidade Federal do Rio Grande do Norte. (IMD/UFRN). No ensino superior, estou cursando o primeiro semestre na Escola de Ciências e Tecnologia (ECT/UFRN).
 
 Com o conhecimento adquirido, consigo desenvolver atividades front-end utilizando HTML, CSS, Javascript, Bootstrap e ReactJS. Para o back-end desenvolvo utilizando Java com o framework Spring, Typescript, NodeJS com o framework ExpressJS e MySQL como banco de dados. Na área do desenvolvimento para dispositivos móveis desenvolvo aplicações utilizando React Native. E para o versionamento de projetos utilizo Git e GitHub. Sou uma pessoa autodidata, apaixonado pela programação, vejo o trabalho em grupo como algo fundamental para o desenvolvimento das atividades.
 
 <div>
   <a href="https://github.com/severino-carvalho">
-  <div style="display:flex; gap:5px;">
-    <img 
-    height="180em"
-    width="280em" 
-    src="https://github-readme-stats.vercel.app/api?username=severino-carvalho&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" />
-    <img
-    height="180em" 
-    width="280em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=severino-carvalho&layout=compact&langs_count=7&theme=dark&show_icons=true&hide_border=true"/>
-  </div>
+    <div style="display:flex; gap:5px;">
+      <img 
+      height="180em"
+      width="280em" 
+      src="https://github-readme-stats.vercel.app/api?username=severino-carvalho&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" />
+      <img
+      height="180em" 
+      width="280em" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=severino-carvalho&layout=compact&langs_count=7&theme=dark&show_icons=true&hide_border=true"/>
+    </div>
+  </a>
 </div>
 
------
+---
 
-<div style="display: flex; gap: 7px;">
-  <img align="center" alt="html-icon" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-  <img align="center" alt="css-icon" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-  <img align="center" alt="javascript-icon" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="Icon-Ts" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
-  <img align="center" alt="node-icon" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="react-icon" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-  <img align="center" alt="java-icon" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img align="center" alt="spring-icon" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" /> 
-  <img align="center" alt="mysql-icon" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" alt="yarn-icon" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original-wordmark.svg" />
+### Front-end:
+
+  <div style="display: flex; gap: 7px; margin-bottom: 20px;">
+    <img align="center" alt="html-icon" height="40" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+    <img align="center" alt="css-icon" height="40" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+    <img align="center" alt="css-icon" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+    <img align="center" alt="javascript-icon" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img align="center" alt="react-icon" height="40" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   </div>
 
-<div> 
+### Back-end:
+
+  <div style="display: flex; gap: 7px; margin-bottom: 20px;">
+    <img align="center" alt="Icon-Ts" height="40" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
+    <img align="center" alt="node-icon" height="40" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+    <img align="center" alt="java-icon" height="40" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+    <img align="center" alt="spring-icon" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
+    <img align="center" alt="mysql-icon" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+    <img align="center" alt="docker-icon" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+    <img align="center" alt="yarn-icon" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" />
+  </div>
+
+### Controle de versão:
+
+  <div style="display: flex; gap: 7px;">
+    <img align="center" alt="docker-icon" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+    <img align="center" alt="docker-icon" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  </div>
 
 ---
 
@@ -98,7 +113,6 @@ Com o conhecimento adquirido, consigo desenvolver atividades front-end utilizand
 
 </div>
 
-  ![Snake animation](https://github.com/severino-carvalho/severino-carvalho/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+![Snake animation](https://github.com/severino-carvalho/severino-carvalho/blob/output/github-contribution-grid-snake.svg)
 
+</div>
