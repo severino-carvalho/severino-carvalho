@@ -10,11 +10,11 @@ Com o conhecimento adquirido, consigo desenvolver atividades front-end utilizand
       <img 
       height="180em"
       width="280em" 
-      src="https://github-readme-stats.vercel.app/api?username=severino-carvalho&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" />
+      src="https://github-readme-stats.vercel.app/api?username=severino-carvalho&show_icons=true&theme=transparent&count_private=true" /> 
       <img
       height="180em" 
       width="280em" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=severino-carvalho&layout=compact&theme=dark&show_icons=true&hide_border=true"/>
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=severino-carvalho&layout=compact&theme=transparent&show_icons=true&langs_count=8"/>
     </div>
   </a>
 </div>
