@@ -21,43 +21,37 @@ Com o conhecimento adquirido, consigo desenvolver atividades front-end utilizand
 
 ---
 
-# Tecnologias
+## Tecnologias
 
-<div style="margin:1em 0;">
+<div>
 
-### Front-end:
-
-  <div style="display: flex; gap: 7px; margin-bottom: 20px;">
-    <img align="center" alt="html-icon" height="40" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-    <img align="center" alt="css-icon" height="40" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-    <img align="center" alt="javascript-icon" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    <img align="center" alt="css-icon" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-    <img align="center" alt="react-icon" height="40" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <div align="center">
+    <p align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,react" />
+      </a>
+    </p>                       
   </div>
 
-### Back-end:
-
-  <div style="display: flex; gap: 7px; margin-bottom: 20px;">
-    <img align="center" alt="Icon-Ts" height="40" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
-    <img align="center" alt="node-icon" height="40" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-    <img align="center" alt="java-icon" height="40" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-    <img align="center" alt="spring-icon" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
-    <img align="center" alt="mysql-icon" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-    <img align="center" alt="docker-icon" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-    <img align="center" alt="yarn-icon" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" />
+  <div align="center">
+    <p align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=nodejs,typescript,java,spring,mysql,docker" />
+      </a>
+    </p>                       
   </div>
 
-### Controle de versão:
-
-  <div style="display: flex; gap: 1em;">
-    <img align="center" alt="docker-icon" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-    <img align="center" alt="docker-icon" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <div align="center">
+    <p align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=git,github" />
+      </a>
+    </p>                       
   </div>
-</div>
-
+  
 ---
 
-# Social
+## Social
 
 <div stats="display: flex;">
   <!--  Discord -->
