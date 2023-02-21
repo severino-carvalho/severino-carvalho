@@ -17,12 +17,6 @@ Com o conhecimento adquirido, consigo desenvolver atividades front-end utilizand
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=severino-carvalho&layout=compact&theme=dark&show_icons=true&langs_count=8"/>
     </div>
   </a>
-
-  <div align="center">
-    <a href="https://milind.bio.link/" >
-      <img src = "http://github-readme-streak-stats.herokuapp.com?user=severino-carvalho&theme=monokai&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=00000000&stroke=DE37C1">
-    </a>
-  </div>
 </div>
 
 ---
