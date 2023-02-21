@@ -10,39 +10,51 @@ Com o conhecimento adquirido, consigo desenvolver atividades front-end utilizand
       <img 
       height="180em"
       width="280em" 
-      src="https://github-readme-stats.vercel.app/api?username=severino-carvalho&show_icons=true&theme=transparent&count_private=true" /> 
+      src="https://github-readme-stats.vercel.app/api?username=severino-carvalho&show_icons=true&theme=dark&count_private=true" /> 
       <img
       height="180em" 
       width="280em" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=severino-carvalho&layout=compact&theme=transparent&show_icons=true&langs_count=8"/>
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=severino-carvalho&layout=compact&theme=dark&show_icons=true&langs_count=8"/>
     </div>
   </a>
+
+  <div align="center">
+    <a href="https://milind.bio.link/" >
+      <img src = "http://github-readme-streak-stats.herokuapp.com?user=severino-carvalho&theme=monokai&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=00000000&stroke=DE37C1">
+    </a>
+  </div>
 </div>
 
 ---
 
-## Tecnologias
+# Tecnologias
 
 <div>
 
-  <div align="center">
-    <p align="center">
+## Front-end
+  
+  <div>
+    <p>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,react" />
       </a>
     </p>                       
   </div>
 
-  <div align="center">
-    <p align="center">
+## Back-end
+  
+  <div>
+    <p>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=nodejs,typescript,java,spring,mysql,docker" />
       </a>
     </p>                       
   </div>
-
-  <div align="center">
-    <p align="center">
+  
+## Controle de Versão
+  
+  <div>
+    <p>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=git,github" />
       </a>
