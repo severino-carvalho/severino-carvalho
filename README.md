@@ -60,15 +60,6 @@ Com o conhecimento adquirido, consigo desenvolver atividades front-end utilizand
 ## Social
 
 <div stats="display: flex;">
-  <!--  Discord -->
-  <a 
-  href="https://discord.gg/9WpdURtWKE" 
-  target="_blank">
-    <img
-    style="width: 110px; height: 30px;" 
-    src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" 
-    target="_blank" />
-  </a>
   <!--  GitHub  -->
   <a 
   href="http://github.com/severino-carvalho"
@@ -76,13 +67,6 @@ Com o conhecimento adquirido, consigo desenvolver atividades front-end utilizand
     <img 
     style="width: 110px; height: 30px;"
     src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
-  </a>
-  <!--  Gmail  -->
-  <a href="mailto:severinocarvalho14@gmail.com">
-    <img 
-    style="width: 110px; height: 30px;"
-    src="https://camo.githubusercontent.com/571384769c09e0c66b45e39b5be70f68f552db3e2b2311bc2064f0d4a9f5983b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" 
-    data-canonical-src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <!--  Instagram  -->
   <a 
@@ -108,14 +92,6 @@ Com o conhecimento adquirido, consigo desenvolver atividades front-end utilizand
     style="width: 110px; height: 30px;"
     src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" 
     target="_blank">
-  </a>
-  <!--  WhatsApp  -->
-  <a 
-  href="https://wa.me/5584994650540"
-  target="_blank">
-    <img 
-    style="width: 110px; height: 30px;"
-    src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
   </a>
 </div>
 </div>
