@@ -1,8 +1,8 @@
 ## Olá, seja bem-vindo!
 
-Sou Severino Carvalho e tenho 22 anos. Sou técnico de nível médio em informátiva pelo Instituto Federal de Educação Ciência e Tecnologia do Rio Grande do Norte Campus João Câmara (IFRN-JC) e técnico em programação para internet pelo Instituto Metrópole Digital da Universidade Federal do Rio Grande do Norte. (IMD/UFRN). No ensino superior, estou cursando o primeiro semestre na Escola de Ciências e Tecnologia (ECT/UFRN).
+Sou Severino Carvalho e tenho 22 anos. Sou técnico de nível médio em informátiva pelo Instituto Federal de Educação Ciência e Tecnologia do Rio Grande do Norte Campus João Câmara (IFRN-JC) e técnico em programação para internet pelo Instituto Metrópole Digital da Universidade Federal do Rio Grande do Norte. (IMD/UFRN). No ensino superior, estou na graduação de Ciências e Tecnologia na Escola de Ciências e Tecnologia (ECT/UFRN).
 
-Com o conhecimento adquirido, consigo desenvolver atividades front-end utilizando HTML, CSS, Javascript, Bootstrap e ReactJS. Para o back-end desenvolvo utilizando Java com o framework Spring, Typescript, NodeJS com o framework ExpressJS e MySQL como banco de dados. Na área do desenvolvimento para dispositivos móveis desenvolvo aplicações utilizando React Native. E para o versionamento de projetos utilizo Git e GitHub. Sou uma pessoa autodidata, apaixonado pela programação, vejo o trabalho em grupo como algo fundamental para o desenvolvimento das atividades.
+Com o conhecimento adquirido, consigo desenvolver atividades front-end utilizando HTML, CSS, Javascript, Bootstrap, Tailwindcss e ReactJS. Para o back-end desenvolvo utilizando Java com o framework Spring, Typescript, NodeJS com o framework ExpressJS, NestJS, MySQL e Postgresql como banco de dados. Na área do desenvolvimento para dispositivos móveis desenvolvo aplicações utilizando React Native. E para o versionamento de projetos utilizo Git e GitHub. Sou uma pessoa autodidata, apaixonado pela programação, vejo o trabalho em grupo como algo fundamental para o desenvolvimento das atividades.
 
 <div style="margin-bottom:1em;">
   <a href="https://github.com/severino-carvalho">
@@ -118,9 +118,4 @@ Com o conhecimento adquirido, consigo desenvolver atividades front-end utilizand
     src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
   </a>
 </div>
-
----
-
-![Snake animation](https://github.com/severino-carvalho/severino-carvalho/blob/output/github-contribution-grid-snake.svg)
-
 </div>
