@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="140" viewBox="0 0 1200 140" role="img" aria-label="3+ anos em produção · 3 sistemas corporativos · Back, Web e Mobile ponta a ponta">
+  <rect width="1200" height="140" rx="16" fill="#1A1F2B"/>
+  <path d="M400 32v76M800 32v76" stroke="#323949" stroke-width="1.5"/>
+  <g text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="200" y="74" fill="#E07A52" font-family="Georgia, 'Times New Roman', serif" font-size="40" font-weight="700">3+ anos</text>
+    <text x="200" y="106" fill="#9AA1AE" font-size="17">em produção</text>
+    <text x="600" y="74" fill="#E07A52" font-family="Georgia, 'Times New Roman', serif" font-size="40" font-weight="700">3 sistemas</text>
+    <text x="600" y="106" fill="#9AA1AE" font-size="17">corporativos desenvolvidos</text>
+    <text x="1000" y="74" fill="#E07A52" font-family="Georgia, 'Times New Roman', serif" font-size="34" font-weight="700">Back · Web · Mobile</text>
+    <text x="1000" y="106" fill="#9AA1AE" font-size="17">ponta a ponta</text>
+  </g>
+</svg>

@@ -1,97 +1,100 @@
-## Olá, seja bem-vindo!
+<div align="center">
 
-Sou Severino Carvalho e tenho 22 anos. Sou técnico de nível médio em informátiva pelo Instituto Federal de Educação Ciência e Tecnologia do Rio Grande do Norte Campus João Câmara (IFRN-JC) e técnico em programação para internet pelo Instituto Metrópole Digital da Universidade Federal do Rio Grande do Norte. (IMD/UFRN). No ensino superior, estou na graduação de Ciências e Tecnologia na Escola de Ciências e Tecnologia (ECT/UFRN).
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
+  <img alt="Severino Carvalho — Desenvolvedor Full Stack" src="./assets/banner-light.svg" width="100%">
+</picture>
 
-Com o conhecimento adquirido, consigo desenvolver atividades front-end utilizando HTML, CSS, Javascript, Bootstrap, Tailwindcss e ReactJS. Para o back-end desenvolvo utilizando Java com o framework Spring, Typescript, NodeJS com o framework ExpressJS, NestJS, MySQL e Postgresql como banco de dados. Na área do desenvolvimento para dispositivos móveis desenvolvo aplicações utilizando React Native. E para o versionamento de projetos utilizo Git e GitHub. Sou uma pessoa autodidata, apaixonado pela programação, vejo o trabalho em grupo como algo fundamental para o desenvolvimento das atividades.
+<br>
 
-<div style="margin-bottom:1em;">
-  <a href="https://github.com/severino-carvalho">
-    <div style="display:flex; gap:5px;">
-      <img 
-      height="180em"
-      width="280em" 
-      src="https://github-readme-stats.vercel.app/api?username=severino-carvalho&show_icons=true&theme=dark&count_private=true" /> 
-      <img
-      height="180em" 
-      width="280em" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=severino-carvalho&layout=compact&theme=dark&show_icons=true&langs_count=8"/>
-    </div>
-  </a>
+<a href="https://severinocarvalho.dev"><img src="https://img.shields.io/badge/severinocarvalho.dev-1A1F2B?style=flat-square&logo=googlechrome&logoColor=white" alt="Site"></a>
+<a href="https://www.linkedin.com/in/severino-carvalho/"><img src="https://img.shields.io/badge/LinkedIn-AD4A26?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:severinocarvalho14@gmail.com"><img src="https://img.shields.io/badge/Email-1A1F2B?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/numbers-dark.svg">
+  <img alt="3+ anos em produção · 3 sistemas corporativos · Back, Web e Mobile ponta a ponta" src="./assets/numbers-light.svg" width="100%">
+</picture>
+
 </div>
+
+## Sobre mim
+
+Desenvolvedor Full Stack com experiência construindo sistemas que resolvem problemas reais, do back-end ao mobile. Na **IDUS**, digitalizo processos do setor de **óleo e gás** que antes viviam em planilhas e papel, entregando sistemas usados no dia a dia da operação.
+
+- Desenvolvedor Full Stack na **IDUS** desde abr/2023
+- Cursando **Bacharelado em Tecnologia da Informação** na UFRN
+- Código que se lê: Clean Code, funções pequenas e Code Review
+
+## Como eu trabalho
+
+- **Ponta a ponta**: entendo o problema inteiro, da modelagem do banco até a tela que o usuário toca. Isso evita decisões de front-end que não fazem sentido para o back-end, e vice-versa.
+- **Aprender fazendo**: testo uma tecnologia construindo algo com ela antes de confiar nela num projeto sério.
+- **Código que se lê**: prefiro nomes claros e funções pequenas a comentários explicando código confuso.
+
+## Stack
+
+**Back-end**
+
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,nestjs,express,rabbitmq" alt="Java, Spring, Node.js, NestJS, Express, RabbitMQ">
+
+**Front-end & mobile**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind" alt="React, React Native, Next.js, TypeScript, JavaScript, Tailwind">
+
+**Dados & infra**
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,docker,git,github" alt="PostgreSQL, MySQL, Docker, Git, GitHub">
+
+Também: Spring Security · JPA/Hibernate · JWT/OAuth2 · REST APIs · React Native · Realm (offline-first)
+
+## Destaques técnicos
+
+- **Offline-first no mobile**: app React Native com Realm, que funciona sem conexão e sincroniza quando a rede volta.
+- **Mensageria entre microsserviços**: integração assíncrona com RabbitMQ.
+- **Segurança**: autenticação e autorização com Spring Security, JWT e OAuth2.
+- **Digitalização de processos**: planilhas e papel substituídos por fluxos automatizados, com modelagem em PostgreSQL e JPA/Hibernate.
+
+## Arquitetura que costumo construir
+
+```mermaid
+flowchart LR
+    mobile["App React Native<br/>(Realm, offline-first)"] -- sync --> api["API Spring Boot"]
+    web["Web React + TypeScript"] --> api
+    api -- "JWT / OAuth2" --> auth["Spring Security"]
+    api --> db[("PostgreSQL")]
+    api -- eventos --> mq{{"RabbitMQ"}}
+    mq --> ms["Microsserviços"]
+```
+
+## Experiência
+
+**Desenvolvedor Full Stack · IDUS** · _Natal, RN · abr/2023 até hoje_
+
+- **Digitalização de processos para o setor de óleo e gás**: sistema em produção que troca planilhas e papel por fluxos automatizados. APIs REST, modelagem de banco de dados, integração entre módulos e módulos mobile em React Native.
+- **Sistema de monitoramento de alarmes industriais**: atuação desde o início do projeto, cuidando de interfaces, APIs REST, modelagem de dados e integração entre microsserviços via mensageria.
+
+## Formação
+
+| Curso | Instituição | Período |
+| --- | --- | --- |
+| Bacharelado em Tecnologia da Informação | UFRN | 2026 até hoje |
+| Técnico em Programação para Internet | IMD/UFRN | 2020 a 2022 |
+| Técnico em Informática | IFRN, Campus João Câmara | |
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/severino-carvalho/severino-carvalho/output/snake-dark.svg">
+  <img alt="Animação de contribuições" src="https://raw.githubusercontent.com/severino-carvalho/severino-carvalho/output/snake.svg">
+</picture>
 
 ---
 
-# Tecnologias
+<div align="center">
 
-<div>
+Tem um projeto em mente ou quer trocar uma ideia? **[Fale comigo](mailto:severinocarvalho14@gmail.com)** · Veja mais em **[severinocarvalho.dev](https://severinocarvalho.dev)**
 
-## Front-end
-  
-  <div>
-    <p>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,react" />
-      </a>
-    </p>                       
-  </div>
-
-## Back-end
-  
-  <div>
-    <p>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=nodejs,typescript,java,spring,mysql,docker" />
-      </a>
-    </p>                       
-  </div>
-  
-## Controle de Versão
-  
-  <div>
-    <p>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,github" />
-      </a>
-    </p>                       
-  </div>
-  
----
-
-## Social
-
-<div stats="display: flex;">
-  <!--  GitHub  -->
-  <a 
-  href="http://github.com/severino-carvalho"
-  target="_blank">
-    <img 
-    style="width: 110px; height: 30px;"
-    src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
-  </a>
-  <!--  Instagram  -->
-  <a 
-  href="https://www.instagram.com/seve_neto7/" 
-  target="_blank">
-    <img 
-    style="width: 110px; height: 30px;"
-    src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
-  </a>
-  <!--  LinkedIn  -->
-  <a 
-  href="https://www.linkedin.com/in/dev-severino-carvalho/"
-  target="_blank">
-    <img 
-    style="width: 110px; height: 30px;"
-    src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
-  <!--  Twitter  -->
-  <a 
-  href="https://twitter.com/dev_severino" 
-  target="_blank">
-    <img 
-    style="width: 110px; height: 30px;"
-    src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" 
-    target="_blank">
-  </a>
-</div>
 </div>

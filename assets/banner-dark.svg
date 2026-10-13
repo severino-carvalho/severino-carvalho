@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Severino Carvalho — Desenvolvedor Full Stack">
+  <rect width="1200" height="300" rx="16" fill="#1A1F2B"/>
+  <g stroke="#262C3A" stroke-width="1">
+    <path d="M820 0v300M880 0v300M940 0v300M1000 0v300M1060 0v300M1120 0v300"/>
+    <path d="M820 60h380M820 120h380M820 180h380M820 240h380"/>
+  </g>
+  <circle cx="1000" cy="150" r="78" fill="none" stroke="#AD4A26" stroke-width="2"/>
+  <circle cx="1000" cy="150" r="6" fill="#AD4A26"/>
+  <rect x="72" y="74" width="56" height="6" rx="3" fill="#AD4A26"/>
+  <text x="72" y="150" fill="#F8F6F2" font-family="Georgia, 'Times New Roman', serif" font-size="58" font-weight="700" letter-spacing="-1">Severino Carvalho</text>
+  <text x="72" y="196" fill="#AD4A26" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" font-weight="600">Desenvolvedor Full Stack</text>
+  <text x="72" y="236" fill="#9AA1AE" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="18">Java · Spring Boot · React · React Native  —  Natal, RN</text>
+</svg>
